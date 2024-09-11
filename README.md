@@ -10,3 +10,9 @@
 ### Solution
 
 <img width="625" alt="Screenshot 2024-09-11 at 16 05 59" src="https://github.com/user-attachments/assets/2fde710d-c923-4abe-bc34-9e75939970a1">
+
+
+### Explaination
+
+
+<img width="681" alt="Screenshot 2024-09-11 at 16 07 19" src="https://github.com/user-attachments/assets/19b73871-c4e0-4144-b86b-ce45f97dda0b">
